@@ -33,7 +33,7 @@ To play the games in this repository, follow these steps:
 
 ## Games List
 
-Explore By Yourself! 😁
+Explore By Yourself!
 
 ## How to Play
 
